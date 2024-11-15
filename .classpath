@@ -9,7 +9,14 @@
 	<classpathentry kind="output" path="bin"/>
 </classpath>
 
-hi jude 
+<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
 
+<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
 
-<system class="ou"></system>
+<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
