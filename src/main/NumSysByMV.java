@@ -143,6 +143,8 @@ public class NumSysByMV implements ActionListener {
             
             
 
+			System.out.println("wyyyy");
+
         }
 	}
 }
